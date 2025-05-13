@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,ice.frostsky.com
   - DOMAIN-SUFFIX,mjj.today
   - DOMAIN-SUFFIX,update.googleapis.com
+  - DOMAIN-SUFFIX,copy20.com
   - IP-CIDR,120.232.181.162/32,no-resolve
   - IP-CIDR,120.241.147.226/32,no-resolve
   - IP-CIDR,120.253.253.226/32,no-resolve
