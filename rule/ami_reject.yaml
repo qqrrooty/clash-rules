@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,api.yfanads.com
   - DOMAIN-SUFFIX,sdk.beizi.biz
-  - DOMAIN-SUFFIX,marketing.aiacgn.com
+#  - DOMAIN-SUFFIX,marketing.aiacgn.com
   - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
   - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
