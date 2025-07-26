@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,9521732.xyz
   - DOMAIN-SUFFIX,029902.xyz
-  - IP-CIDR,142.171.30.126/32,no-resolve
   - DOMAIN-SUFFIX,20120714.xyz
   - DOMAIN-SUFFIX,nijigem.by
   - DOMAIN-SUFFIX,term.wtf
@@ -19,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,violet.run
   - DOMAIN-SUFFIX,oceancloud.asia
   - DOMAIN-SUFFIX,zox.show
+  - IP-CIDR,142.171.30.126/32,no-resolve
