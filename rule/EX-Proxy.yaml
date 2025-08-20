@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,fourhoi.com
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,nineyu.com
+  - DOMAIN-SUFFIX,rss.ink
   - IP-CIDR,120.232.181.162/32,no-resolve
   - IP-CIDR,120.241.147.226/32,no-resolve
   - IP-CIDR,120.253.253.226/32,no-resolve
