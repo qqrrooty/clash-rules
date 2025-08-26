@@ -19,4 +19,5 @@ payload:
   - DOMAIN-SUFFIX,oceancloud.asia
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,uhdnow.com
+  - DOMAIN-SUFFIX,misaka.be
   - IP-CIDR,142.171.30.126/32,no-resolve
