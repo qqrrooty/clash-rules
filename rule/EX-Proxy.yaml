@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,jmc8763.xyz
   - DOMAIN-SUFFIX,destinyitemmanager.com
   - DOMAIN-SUFFIX,termius.com
+  - DOMAIN-KEYWORD,termius
   - DOMAIN-KEYWORD,jmapiproxy
   - DOMAIN-KEYWORD,cdnxxx-proxy
   - DOMAIN-KEYWORD,jmfreedomproxy
