@@ -1,3 +1,8 @@
+# NAME: 解决IOS Netflix掉解锁的问题
+# 解决IOS Netflix掉解锁的问题，无法登录NF手动走代理登录后再阻止
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-阻止
 payload:
   - DOMAIN,ios.ngp.prod.cloud.netflix.com
   - DOMAIN,appboot.netflix.com
