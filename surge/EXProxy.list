@@ -1,5 +1,7 @@
 # NAME: EXProxy
 # AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-代理
 DOMAIN-KEYWORD,rfchost
 DOMAIN-SUFFIX,spartanhost.org
 DOMAIN-SUFFIX,spartanhost.net
