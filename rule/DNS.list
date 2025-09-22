@@ -1,4 +1,7 @@
-# 国外DNS
+# NAME:国外DNS
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-代理
 DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
