@@ -1,3 +1,8 @@
+# NAME: 附加直连规则
+# 解决某些显卡驱动和下载游戏走代理的问题
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-直连
 payload:
 #  - DOMAIN-SUFFIX,akamai.steamstatic.com
 #  - DOMAIN-SUFFIX,cloudflare.steamstatic.com
