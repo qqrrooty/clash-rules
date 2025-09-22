@@ -1,3 +1,7 @@
+# NAME: 雀魂麻将
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-代理/直连
 payload:
   - DOMAIN-SUFFIX,catmajsoul.com
   - DOMAIN-SUFFIX,catmjstudio.com
