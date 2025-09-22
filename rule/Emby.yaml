@@ -1,3 +1,8 @@
+# NAME: Emby
+# 指定Emby分流
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-代理
 payload:
   - DOMAIN-SUFFIX,ii00.cc
   - DOMAIN-SUFFIX,misakaf.org
