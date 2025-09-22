@@ -1,3 +1,8 @@
+# NAME: 附加代理规则
+# 解决某些网站不走代理的问题
+# AUTHOR: Ami
+# 2025-09-22
+# 分流推荐-代理
 payload:
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,18comic
