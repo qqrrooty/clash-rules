@@ -1,3 +1,18 @@
 payload:
   - DOMAIN,a0.app.xiaomi.com
 #  - DOMAIN,shouji.sougou.com
+
+# 本机号码自动登录域名列表
+  - DOMAIN,auth.wosms.cn
+  - DOMAIN,config.cmpassport.com
+  - DOMAIN,enrichgw.10010.com
+  - DOMAIN,hmrz.wo.cn
+  - DOMAIN,id.mail.wo.cn
+  - DOMAIN,id6.me
+  - DOMAIN,log.cmpassport.com
+  - DOMAIN,log1.cmpassport.com
+  - DOMAIN,mdn.open.wo.cn
+  - DOMAIN,mob.com
+  - DOMAIN,nishub1.10010.com
+  - DOMAIN,opencloud.wostore.cn
+  - DOMAIN,ye.dun.163yun.com
