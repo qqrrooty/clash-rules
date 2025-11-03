@@ -1,17 +1,17 @@
-DOMAIN,a0.app.xiaomi.com
-#DOMAIN,shouji.sougou.com
+DOMAIN-SUFFIX,a0.app.xiaomi.com
+#DOMAIN-SUFFIX,shouji.sougou.com
 
 # 本机号码自动登录域名列表
-DOMAIN,auth.wosms.cn
-DOMAIN,config.cmpassport.com
-DOMAIN,enrichgw.10010.com
-DOMAIN,hmrz.wo.cn
-DOMAIN,id.mail.wo.cn
-DOMAIN,id6.me
-DOMAIN,log.cmpassport.com
-DOMAIN,log1.cmpassport.com
-DOMAIN,mdn.open.wo.cn
-DOMAIN,mob.com
-DOMAIN,nishub1.10010.com
-DOMAIN,opencloud.wostore.cn
-DOMAIN,ye.dun.163yun.com
+DOMAIN-SUFFIX,auth.wosms.cn
+DOMAIN-SUFFIX,config.cmpassport.com
+DOMAIN-SUFFIX,enrichgw.10010.com
+DOMAIN-SUFFIX,hmrz.wo.cn
+DOMAIN-SUFFIX,id.mail.wo.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,log.cmpassport.com
+DOMAIN-SUFFIX,log1.cmpassport.com
+DOMAIN-SUFFIX,mdn.open.wo.cn
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,nishub1.10010.com
+DOMAIN-SUFFIX,opencloud.wostore.cn
+DOMAIN-SUFFIX,ye.dun.163yun.com
