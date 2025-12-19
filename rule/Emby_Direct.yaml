@@ -8,11 +8,7 @@ payload:
   - DOMAIN-SUFFIX,jp.fc.newneeship.com
 # Mefun
   - DOMAIN-SUFFIX,g.once.im
-  - DOMAIN-SUFFIX,sgtv.ii00.cc
-  - DOMAIN-SUFFIX,cfgtv.ii00.cc
   - DOMAIN-SUFFIX,p.once.im
-  - DOMAIN-SUFFIX,sptv.ii00.cc
-  - DOMAIN-SUFFIX,cfptv.ii00.cc
   - DOMAIN-SUFFIX,cn-music.mefun.vip
 # 芙服
   - DOMAIN-SUFFIX,cdn.fufuemby.top
