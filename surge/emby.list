@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Ami
-# 2025-09-22
+# 2025-12-19
 # 分流推荐-代理
 DOMAIN-SUFFIX,ii00.cc
 DOMAIN-SUFFIX,misakaf.org
@@ -23,4 +23,6 @@ DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,misaka.be
+DOMAIN-SUFFIX,cf.newneeship.com
+DOMAIN-SUFFIX,music.mefun.vip
 IP-CIDR,142.171.30.126/32,no-resolve
