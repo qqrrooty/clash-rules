@@ -26,4 +26,6 @@ payload:
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,uhdnow.com
   - DOMAIN-SUFFIX,misaka.be
+  - DOMAIN-SUFFIX,cf.newneeship.com
+  - DOMAIN-SUFFIX,music.mefun.vip
   - IP-CIDR,142.171.30.126/32,no-resolve
