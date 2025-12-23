@@ -1,0 +1,21 @@
+# NAME: B站直播禁止STUN
+# AUTHOR: Ami
+# 2025-12-23
+# 分流推荐-禁止
+DOMAIN-SUFFIX,stun-1.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-2.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-3.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-4.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-5.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-6.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-7.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun-8.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun1.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun2.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun3.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun4.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun5.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun6.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun7.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun8.chat.bilibili.com,extended-matching
