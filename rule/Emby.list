@@ -1,0 +1,30 @@
+# NAME: Emby
+# AUTHOR: Ami
+# 2025-12-19
+# 分流推荐-代理
+DOMAIN-SUFFIX,ii00.cc
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,facmata.net
+DOMAIN-KEYWORD,magpie
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,9521732.xyz
+DOMAIN-SUFFIX,029902.xyz
+DOMAIN-SUFFIX,20120714.xyz
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,bgp.yt
+DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,emby.sexemby.com
+DOMAIN-SUFFIX,cancanbi.com
+DOMAIN-SUFFIX,violet.run
+DOMAIN-SUFFIX,5203166.xyz
+DOMAIN-SUFFIX,oceancloud.asia
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,misaka.be
+DOMAIN-SUFFIX,cf.newneeship.com
+DOMAIN-SUFFIX,music.mefun.vip
+DOMAIN-SUFFIX,biglog.blog
+IP-CIDR,142.171.30.126/32,no-resolve
