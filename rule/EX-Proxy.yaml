@@ -3,71 +3,49 @@
 # AUTHOR: Ami
 # 2025-09-22
 # 分流推荐-代理
-payload:
-  - DOMAIN-KEYWORD,missav
-  - DOMAIN-KEYWORD,18comic
-  - DOMAIN-KEYWORD,jmcomic
-  - DOMAIN-KEYWORD,18-comic
-  - DOMAIN-SUFFIX,mangacopy.com
-  - DOMAIN-SUFFIX,jmapinodeudzn.net
-  - DOMAIN-SUFFIX,cdnblackmyth.club
-  - DOMAIN-KEYWORD,jmapiproxy
-  - DOMAIN-SUFFIX,cdnmhwscc.vip
-  - DOMAIN-SUFFIX,cdnmhws.cc
-  - DOMAIN-SUFFIX,mangafunb.fun
-  - DOMAIN-SUFFIX,jmc8763.xyz
-  - DOMAIN-SUFFIX,destinyitemmanager.com
-  - DOMAIN-SUFFIX,termius.com
-  - DOMAIN-KEYWORD,termius
-  - DOMAIN-KEYWORD,jmapiproxy
-  - DOMAIN-KEYWORD,cdnxxx-proxy
-  - DOMAIN-KEYWORD,jmfreedomproxy
-  - DOMAIN-SUFFIX,copy-manga.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,recombee.com
-  - DOMAIN-KEYWORD,baozimh
-  - DOMAIN-SUFFIX,czmanga.com
-  - DOMAIN-KEYWORD,copymanga
-  - DOMAIN-SUFFIX,jm365.work
-  - DOMAIN-SUFFIX,cdnblackmyth.xyz
-  - DOMAIN-SUFFIX,amazontrust.com
-  - DOMAIN-SUFFIX,girigirilove.com
-  - DOMAIN-SUFFIX,jmapinodeudzn.net
-  - DOMAIN-SUFFIX,cdnblackmyth.vip
-  - DOMAIN-SUFFIX,brother.co.jp
-  - DOMAIN-SUFFIX,go.brother
-  - DOMAIN-SUFFIX,brother.com
-  - DOMAIN-SUFFIX,ice.frostsky.com
-  - DOMAIN-SUFFIX,mjj.today
-#  - DOMAIN-SUFFIX,update.googleapis.com
-  - DOMAIN-SUFFIX,copy20.com
-  - DOMAIN-SUFFIX,2025copy.com
-  - DOMAIN-SUFFIX,mangafuna.xyz
-  - DOMAIN-SUFFIX,copy-manga.com
-  - DOMAIN-SUFFIX,copy2000.online
-  - DOMAIN-SUFFIX,cdnplaystation6.org
-  - DOMAIN-SUFFIX,cdnuc.vip
-  - DOMAIN-SUFFIX,hanime1.me
-  - DOMAIN-SUFFIX,sb-cd.com
-  - DOMAIN-SUFFIX,hembed.com
-  - DOMAIN-SUFFIX,fourhoi.com
-  - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN-SUFFIX,nineyu.com
-  - IP-CIDR,120.232.181.162/32,no-resolve
-  - IP-CIDR,120.241.147.226/32,no-resolve
-  - IP-CIDR,120.253.253.226/32,no-resolve
-  - IP-CIDR,120.253.255.162/32,no-resolve
-  - IP-CIDR,120.253.255.34/32,no-resolve
-  - IP-CIDR,120.253.255.98/32,no-resolve
-  - IP-CIDR,180.163.150.162/32,no-resolve
-  - IP-CIDR,180.163.150.34/32,no-resolve
-  - IP-CIDR,180.163.151.162/32,no-resolve
-  - IP-CIDR,180.163.151.34/32,no-resolve
-  - IP-CIDR,203.208.39.0/24,no-resolve
-  - IP-CIDR,203.208.40.0/24,no-resolve
-  - IP-CIDR,203.208.41.0/24,no-resolve
-  - IP-CIDR,203.208.43.0/24,no-resolve
-  - IP-CIDR,203.208.50.0/24,no-resolve
-  - IP-CIDR,220.181.174.162/32,no-resolve
-  - IP-CIDR,220.181.174.226/32,no-resolve
-  - IP-CIDR,220.181.174.34/32,no-resolve
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,brother.co.jp
+DOMAIN-SUFFIX,brother.com
+DOMAIN-SUFFIX,cdnblackmyth.club
+DOMAIN-SUFFIX,cdnblackmyth.vip
+DOMAIN-SUFFIX,cdnblackmyth.xyz
+DOMAIN-SUFFIX,cdnmhws.cc
+DOMAIN-SUFFIX,cdnmhwscc.vip
+DOMAIN-SUFFIX,cdnplaystation6.org
+DOMAIN-SUFFIX,cdnuc.vip
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,czmanga.com
+DOMAIN-SUFFIX,destinyitemmanager.com
+DOMAIN-SUFFIX,fourhoi.com
+DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,go.brother
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,ice.frostsky.com
+DOMAIN-SUFFIX,jm365.work
+DOMAIN-SUFFIX,jmapinodeudzn.net
+DOMAIN-SUFFIX,jmc8763.xyz
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafunb.fun
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mjj.today
+DOMAIN-SUFFIX,nineyu.com
+DOMAIN-SUFFIX,recombee.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,termius.com
+DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,18-comic
+DOMAIN-KEYWORD,baozimh
+DOMAIN-KEYWORD,cdnxxx-proxy
+DOMAIN-KEYWORD,copymanga
+DOMAIN-KEYWORD,jmapiproxy
+DOMAIN-KEYWORD,jmcomic
+DOMAIN-KEYWORD,jmfreedomproxy
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,termius
+
