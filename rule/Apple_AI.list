@@ -2,11 +2,13 @@
 # AUTHOR: Ami
 # 2026-01-10
 # 分流推荐-代理（非HK地区）
-DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,*.smoot.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,cp4.cloudflare.com
 IP-CIDR,17.248.152.145/24,no-resolve
 IP-CIDR,17.248.152.113/24,no-resolve
