@@ -4,8 +4,8 @@
 # 分流推荐-代理（非HK地区）
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,guzzoni.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,apple-relay.mask.apple-dns.net
+# DOMAIN,gspe1-ssl.ls.apple.com
+# DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.apple.com
