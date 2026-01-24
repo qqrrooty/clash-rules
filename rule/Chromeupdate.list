@@ -1,0 +1,5 @@
+# NAME:Chrome浏览器自动更新
+# AUTHOR: Ami
+DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,dl.google.com
