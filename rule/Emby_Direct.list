@@ -29,4 +29,11 @@ DOMAIN-SUFFIX,violetcdn.fufuemby.top
 DOMAIN-SUFFIX,cmcdn.fufuemby.top
 DOMAIN-SUFFIX,ctcdn.fufuemby.top
 DOMAIN-SUFFIX,cucdn.fufuemby.top
+DOMAIN-SUFFIX,db.jiedaibao.gs
+DOMAIN-SUFFIX,db2.jiedaibao.gs
+DOMAIN-SUFFIX,cdn.jiedaibao.gs
+DOMAIN-SUFFIX,cdn2.jiedaibao.gs
+DOMAIN-SUFFIX,hbcu.mtdb.ddns.jiedaibao.gs
+DOMAIN-SUFFIX,szcm.mtdb.ddns.jiedaibao.gs
+DOMAIN-SUFFIX,cnopt.mtdb.ddns.jiedaibao.gs
 IP-CIDR,46.3.109.178/32,no-resolve
